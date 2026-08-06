@@ -9,7 +9,9 @@ This project analyzes 436 college players who were eligible for the 2025 MLS Sup
 The project combines data collection and cleaning in Excel, data visualization in Tableau, and statistical analysis in R.
 
 ## Tableau Dashboard
+### Interactive Dashboard
 
+[View the interactive Tableau dashboard](https://public.tableau.com/views/College_to_Pro_2025_MLS_Player_Analysis/FromCollegetoProWhatHappenedtothe2025EligiblePlayerPool)
 ![College Soccer to Pro Tableau Dashboard](Figures/From%20College%20to%20Pro_%20What%20Happened%20to%20the%202025%20Eligible%20Player%20Pool%3F.png)
 
 ## Key Findings
