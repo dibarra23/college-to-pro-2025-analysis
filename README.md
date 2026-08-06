@@ -52,6 +52,7 @@ The statistical results should therefore be interpreted as associations rather t
 
 ## Project Structure
 
+```text
 college-to-pro-2025-analysis/
 ├── README.md
 ├── college_to_pro_analysis.R
@@ -62,7 +63,7 @@ college-to-pro-2025-analysis/
 │   └── logistic_regression_forest_plot.png
 └── Tableau/
     └── College_to_Pro_2025_MLS_Player_Analysis.twb
-
+```
 ## Statistical Analysis
 
 A chi-square test was used to evaluate whether MLS Academy background was associated with turning professional. The result was not statistically significant (p = 0.70).
